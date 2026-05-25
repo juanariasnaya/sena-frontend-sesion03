@@ -97,3 +97,8 @@ button {
 button:hover {
     background-color: #bc8a5f;
 }   
+
+/* EFECTO HOVER EN TARJETAS */
+.tarjeta:hover {
+    border: 2px solid var(--color-secundario);
+}
